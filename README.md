@@ -2,8 +2,8 @@ To Start the Application
 
 Run these Commands
 
-yarn install
-yarn start
+1. yarn install
+2. yarn start
 
 Required Software for the application
 
