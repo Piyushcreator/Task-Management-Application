@@ -1,3 +1,17 @@
+To Start the Application
+
+Run these Commands
+
+yarn install
+yarn start
+
+Required Software for the application
+
+1. node
+2. yarn
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
